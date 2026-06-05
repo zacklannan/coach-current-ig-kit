@@ -1,0 +1,6 @@
+# Keep line endings correct per platform so launchers work on both.
+*.command text eol=lf
+*.sh      text eol=lf
+*.py      text eol=lf
+*.bat     text eol=crlf
+*.md      text
